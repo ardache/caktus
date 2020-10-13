@@ -13,7 +13,7 @@ $(function() {
 	
 	// Countdown
 	$('.countdown').downCount({
-		date: '12/12/2014 12:00:00',
+		date: '4/1/2021 12:00:00',
 		offset: +10
 	});			
     
